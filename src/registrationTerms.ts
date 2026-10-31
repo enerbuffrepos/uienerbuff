@@ -1,0 +1,7 @@
+export const REGISTRATION_TERMS_VERSION = '2026-10-04';
+export const registrationTerms = [
+  { title: 'Account details and access', body: 'Provide accurate details and use your own mobile number. Admin access requires verification of your authority to represent the organization. Existing organizations require approval from their admin, who assigns and updates member roles.' },
+  { title: 'Registration consent', body: 'You consent to Enerbuff storing and using your name, mobile number, Consumer ID, and access-request details to verify your registration, manage organization access, and respond to support requests.' },
+  { title: 'Facility data and participation', body: 'Registration does not authorize remote equipment control or enroll your facility in an event. You consent to the use of facility and electricity data for demand flexibility assessment and approved programme operations. Energy commitments are confirmed during setup. Savings and incentives depend on programme eligibility and measured performance.' },
+  { title: 'Member removal and profile deletion', body: 'Organization admins can manage roles and revoke member access. Revocation prevents access to that organization and retains your user profile. Contact your admin to be added again. You can separately request permanent profile deletion for review. We will delete your profile within 7 working days of your request.' },
+];

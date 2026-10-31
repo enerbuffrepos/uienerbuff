@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Enerbuff",
+    "slug": "enerbuff",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F8F9F6",
+    "ios": { "supportsTablet": true },
+    "android": { "edgeToEdgeEnabled": true },
+    "web": { "name": "Enerbuff — Energy flexibility" }
+  }
+}
